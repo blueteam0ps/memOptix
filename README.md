@@ -28,14 +28,14 @@ Author : J Marasinghe
 3. Open the **memOptix-analyst.ipynb** within Jupyter and follow instructions within the notebook 
 4. If you are not planning to run Supermem and want to generate the CSVs required for the notebook please run the following cell. If you already have the CSVs, then update the path as instructed and skip the CSV generation.
 
-![enter image description here](https://raw.githubusercontent.com/blueteam0ps/memOptix/main/imgs/csv-generation.jpg?token=GHSAT0AAAAAABQPZ26WLUNESJFM7USRJQ72YXGQRDQ)
+![Generate CSVs](https://github.com/blueteam0ps/memOptix/blob/main/imgs/csv-generation.jpg?raw=true)
 
 ### Screenshots 
 ![Network IOC enrichment](https://raw.githubusercontent.com/blueteam0ps/memOptix/main/imgs/Network%20IOC%20Enrichment.jpg?token=GHSAT0AAAAAABQPZ26W7U3SQ4VZ3GGTXJCOYXGQU4Q)
 
-![enter image description here](https://raw.githubusercontent.com/blueteam0ps/memOptix/main/imgs/Process%20Tree%20Visualisation%20-%20MSTICPY.jpg?token=GHSAT0AAAAAABQPZ26XX6FK4J6GH25YNDWYYXGQVWA)
+![Process Tree Visualisation](https://raw.githubusercontent.com/blueteam0ps/memOptix/main/imgs/Process%20Tree%20Visualisation%20-%20MSTICPY.jpg?token=GHSAT0AAAAAABQPZ26XX6FK4J6GH25YNDWYYXGQVWA)
 
-![enter image description here](https://raw.githubusercontent.com/blueteam0ps/memOptix/main/imgs/Timeseries%20-%20MSTICPY.jpg?token=GHSAT0AAAAAABQPZ26WI4EOPBK52S2NOYHKYXGQWLA)
+![Timeseries analysis](https://raw.githubusercontent.com/blueteam0ps/memOptix/main/imgs/Timeseries%20-%20MSTICPY.jpg?token=GHSAT0AAAAAABQPZ26WI4EOPBK52S2NOYHKYXGQWLA)
 
 Image Credit
 <a href="https://www.flaticon.com/free-icons/memory" title="memory icons">Memory icons created by Darius Dan - Flaticon</a>
