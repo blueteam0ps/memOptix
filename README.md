@@ -31,11 +31,11 @@ Author : J Marasinghe
 ![Generate CSVs](https://github.com/blueteam0ps/memOptix/blob/main/imgs/csv-generation.jpg?raw=true)
 
 ### Screenshots 
-![Network IOC enrichment](https://raw.githubusercontent.com/blueteam0ps/memOptix/main/imgs/Network%20IOC%20Enrichment.jpg?token=GHSAT0AAAAAABQPZ26W7U3SQ4VZ3GGTXJCOYXGQU4Q)
+![Network IOC enrichment](https://github.com/blueteam0ps/memOptix/blob/main/imgs/Network%20IOC%20Enrichment.jpg?raw=true)
 
-![Process Tree Visualisation](https://raw.githubusercontent.com/blueteam0ps/memOptix/main/imgs/Process%20Tree%20Visualisation%20-%20MSTICPY.jpg?token=GHSAT0AAAAAABQPZ26XX6FK4J6GH25YNDWYYXGQVWA)
+![Process Tree Visualisation](https://github.com/blueteam0ps/memOptix/blob/main/imgs/Process%20Tree%20Visualisation%20-%20MSTICPY.jpg?raw=true)
 
-![Timeseries analysis](https://raw.githubusercontent.com/blueteam0ps/memOptix/main/imgs/Timeseries%20-%20MSTICPY.jpg?token=GHSAT0AAAAAABQPZ26WI4EOPBK52S2NOYHKYXGQWLA)
+![Timeseries analysis](https://github.com/blueteam0ps/memOptix/blob/main/imgs/Timeseries%20-%20MSTICPY.jpg?raw=true)
 
 Image Credit
 <a href="https://www.flaticon.com/free-icons/memory" title="memory icons">Memory icons created by Darius Dan - Flaticon</a>
