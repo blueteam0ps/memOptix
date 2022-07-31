@@ -7,9 +7,12 @@ This Jupyter notebook will assist DFIR professional in analysing the output gene
 
 Please note that this notebook was created based on the output generated from CrowdStrike's Supermem python script (https://github.com/CrowdStrike/SuperMem). SuperMem triage mode 2 or 3 should be run against the memory dump prior to running this notebook.  A separate Volatility processing cell is provided as part of this notebook, if you decide to run Volatility against a memory dump interactively to generate the required output.
 
-Following Open Source projects are used in this notebook
-https://github.com/microsoft/msticpy
-https://github.com/volatilityfoundation/volatility3
+Following Open Source projects are used in this notebook  
+
+https://github.com/microsoft/msticpy  
+
+https://github.com/volatilityfoundation/volatility3  
+
 https://github.com/CrowdStrike/SuperMem
 
 Author : J Marasinghe
