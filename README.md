@@ -1,7 +1,7 @@
 ![enter image description here](https://i.ibb.co/nzzs9Lb/memory-card-1.png)
 
 # memOptix
-
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 This Jupyter notebook will assist DFIR professional in analysing the output generated from Volatility memory extraction framework in a structured manner.  Current version of the notebook is written to process Volatility output from Windows OSs. 
 
