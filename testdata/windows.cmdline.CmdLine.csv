@@ -1,0 +1,118 @@
+TreeDepth,PID,Process,Args
+0,4,System,Required memory at 0x20 is not valid (process exited?)
+0,88,Registry,Required memory at 0x20 is not valid (process exited?)
+0,404,smss.exe,\SystemRoot\System32\smss.exe
+0,556,csrss.exe,"%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16"
+0,632,wininit.exe,wininit.exe
+0,640,csrss.exe,"%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16"
+0,700,winlogon.exe,winlogon.exe
+0,768,services.exe,C:\Windows\system32\services.exe
+0,776,lsass.exe,C:\Windows\system32\lsass.exe
+0,908,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p -s PlugPlay
+0,928,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p
+0,952,fontdrvhost.ex,"""fontdrvhost.exe"""
+0,960,fontdrvhost.ex,"""fontdrvhost.exe"""
+0,496,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS -p
+0,624,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p -s LSM
+0,512,LogonUI.exe,"""LogonUI.exe"" /flags:0x2 /state0:0xa3bd1855 /state1:0x41c64e6d"
+0,1028,dwm.exe,"""dwm.exe"""
+0,1092,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs -s TermService
+0,1152,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService
+0,1164,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s nsi
+0,1172,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts
+0,1180,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -s W32Time
+0,1192,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc
+0,1264,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp
+0,1312,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService -p -s Dnscache
+0,1384,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog
+0,1476,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p
+0,1576,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+0,1612,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s NlaSvc
+0,1660,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s gpsvc
+0,1668,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s ProfSvc
+0,1680,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s EventSystem
+0,1712,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs -p -s Themes
+0,1824,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s SENS
+0,1848,svchost.exe,C:\Windows\System32\svchost.exe -k LocalService -p -s netprofm
+0,1888,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s Schedule
+0,1924,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+0,2004,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s UmRdpService
+0,2032,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs -p -s ShellHWDetection
+0,1260,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s FontCache
+0,2092,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s LanmanWorkstation
+0,2336,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s UserManager
+0,2352,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -s CertPropSvc
+0,2396,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s Winmgmt
+0,2456,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs -p -s SessionEnv
+0,2560,svchost.exe,C:\Windows\System32\svchost.exe -k NetSvcs -p -s iphlpsvc
+0,2588,spoolsv.exe,C:\Windows\System32\spoolsv.exe
+0,2728,amazon-ssm-age,"""C:\Program Files\Amazon\SSM\amazon-ssm-agent.exe"""
+0,2768,LiteAgent.exe,"""C:\Program Files\Amazon\XenTools\LiteAgent.exe"""
+0,2784,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService -p -s CryptSvc
+0,2848,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s SstpSvc
+0,2896,svchost.exe,C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain
+0,2904,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs -s LanmanServer
+0,2956,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TrkWks
+0,2964,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s WinRM
+0,2992,MsMpEng.exe,"""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2102.4-0\MsMpEng.exe"""
+0,3036,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s WpnService
+0,3112,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs
+0,3904,NisSrv.exe,"""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2102.4-0\NisSrv.exe"""
+0,3992,ssm-agent-work,"""C:\Program Files\Amazon\SSM\ssm-agent-worker.exe"""
+0,4004,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4
+0,2472,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork -p -s DPS
+0,1104,msdtc.exe,C:\Windows\System32\msdtc.exe
+0,4012,svchost.exe,C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s UALSVC
+0,1524,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s UsoSvc
+0,1884,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s CDPSvc
+0,1136,csrss.exe,"%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16"
+0,1532,winlogon.exe,winlogon.exe
+0,1636,fontdrvhost.ex,"""fontdrvhost.exe"""
+0,2660,dwm.exe,"""dwm.exe"""
+0,2392,rdpclip.exe,rdpclip
+0,1956,sihost.exe,sihost.exe
+0,1456,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+0,1328,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel -p -s StateRepository
+0,2716,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+0,2236,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+0,1688,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s TokenBroker
+0,4128,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TabletInputService
+0,4192,ctfmon.exe,"""ctfmon.exe"""
+0,4500,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s Appinfo
+0,4604,userinit.exe,Required memory at 0xb35fa98020 is not valid (process exited?)
+0,4628,rdpinput.exe,"""C:\Windows\System32\rdpinput.EXE"" "
+0,4636,explorer.exe,C:\Windows\Explorer.EXE
+0,4680,TabTip.exe,/QuitInfo:0000000000000294;0000000000000290;  
+0,4756,TabTip32.exe,/loadhooks /Parent:0000000000001248
+0,4140,svchost.exe,C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc
+0,5504,ShellExperienc,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca"
+0,5588,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca"
+0,5620,RuntimeBroker.,C:\Windows\System32\RuntimeBroker.exe -Embedding
+0,5688,RuntimeBroker.,C:\Windows\System32\RuntimeBroker.exe -Embedding
+0,1588,RuntimeBroker.,C:\Windows\System32\RuntimeBroker.exe -Embedding
+0,560,dllhost.exe,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+0,4292,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s StorSvc
+0,2196,svchost.exe,C:\Windows\System32\svchost.exe -k LocalService -p -s LicenseManager
+0,7032,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s DsSvc
+0,652,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s DsmSvc
+0,5208,mstsc.exe,Required memory at 0x5cbee06020 is not valid (process exited?)
+0,4104,mstsc.exe,Required memory at 0xc273ab4020 is not valid (process exited?)
+0,3392,mstsc.exe,Required memory at 0x75b2434020 is not valid (process exited?)
+0,3508,mstsc.exe,Required memory at 0xfd9463a020 is not valid (process exited?)
+0,876,mstsc.exe,Required memory at 0xd597ec7020 is not valid (process exited?)
+0,5704,mstsc.exe,Required memory at 0xfa8516a020 is not valid (process exited?)
+0,6404,mstsc.exe,Required memory at 0xfc52003020 is not valid (process exited?)
+0,4076,wsmprovhost.ex,C:\Windows\system32\wsmprovhost.exe -Embedding
+0,32,PSclient.exe,"""C:\Users\Public\PSclient.exe"" -autorestart -relayserver 13.54.35.87:5555"
+0,3064,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4
+0,2344,mstsc.exe,Required memory at 0x5fa81e4020 is not valid (process exited?)
+0,6828,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s WinHttpAutoProxySvc
+0,5184,smartscreen.ex,C:\Windows\System32\smartscreen.exe -Embedding
+0,6484,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc
+0,904,backgroundTask,Required memory at 0x14aca18020 is not valid (process exited?)
+0,3964,TabTip.exe,Required memory at 0x9e27b1e020 is not valid (process exited?)
+0,2844,powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" "
+0,1736,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4
+0,6580,winpmem_mini_x,"""C:\Users\dadmin\Desktop\winpmem_mini_x64_rc2.exe"" memory.raw"
+0,5772,dllhost.exe,Required memory at 0xa3bb6c8020 is not valid (process exited?)
+
