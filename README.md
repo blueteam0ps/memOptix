@@ -3,7 +3,7 @@
 # memOptix
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-This Jupyter notebook will assist DFIR professional in analysing the output generated from Volatility memory extraction framework in a structured manner.  Current version of the notebook is written to process Volatility output from Windows OSs. 
+This Jupyter notebook will assist DFIR professionals in analysing the output generated from Volatility memory extraction framework in a structured manner.  Current version of the notebook is written to process Volatility output from Windows OSs. 
 
 Please note that this notebook was created based on the output generated from CrowdStrike's Supermem python script (https://github.com/CrowdStrike/SuperMem). SuperMem triage mode 2 or 3 should be run against the memory dump prior to running this notebook.  A separate Volatility processing cell is provided as part of this notebook, if you decide to run Volatility against a memory dump interactively to generate the required output.
 
